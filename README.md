@@ -1,5 +1,5 @@
 - 👋 Hi, this is Priyanshu Sahu.
-- 👀 I’m interested in partner who have great skills about Data science.
-- 🌱 I’m currently learning Data science and Machine learning.
-- 💞️ I’m looking to collaborate on Data science and Machine learning.
+- 👀 I’m interested in partner who have great skills about Data science and Deep learning.
+- 🌱 I’m currently learning Data science and Machine learning and Deep learning.
+- 💞️ I’m looking to collaborate on Data science Projects.
 - 📫 You can reach me https://www.linkedin.com/in/priyanshusahu at here this is my LinkedIn profile.
