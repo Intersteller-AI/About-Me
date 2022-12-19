@@ -7,6 +7,9 @@ Install dependencies using requirements.txt.
 Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 ### Contents
 
+### Data Analysis : 
+paste report on volcano data --- (in progress) 
+
 ## Machine Learning
 
 Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
