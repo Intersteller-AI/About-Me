@@ -1,11 +1,5 @@
----
-title: Data Science Portfolio
----
-
-[+1](Data Analysis)
-
 # Data Science Portfolio
-`Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks.`
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks.
 
 **Instructions for Running Python Notebooks Locally
 Install dependencies using requirements.txt.
@@ -14,23 +8,11 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.**
 ***
 ### Data Analysis  
 
-<div>
-<h4> Data Analysis on volcanic eruption data</h4>
-<ul style="list-style: none;">
-<li>
-<p>The Smithsonian Institution’s Global Volcanism Program (GVP) documents Earth’s volcanoes and their eruptive history over the past 10,000 years</p>
-</li>
-<br>
-<li>
-<p>
-The GVP database includes the names, locations, types, and features of more than 1,500 volcanoes with eruptions during the Holocene period (approximately the last 10,000 years) or exhibiting current unrests.</p>
-</li>
-<br>
-<li>
-<p><a href="https://www.kaggle.com/priyanshusahu23/eda-on-volcano-data">Link</a> Here's the link of jupyter notebook.</p>
-</li>
-</ul>
-</div>
+**Data Analysis on volcanic eruption data**
+  
+- The Smithsonian Institution’s Global Volcanism Program (GVP) documents Earth’s volcanoes and their eruptive history over the past 10,000 years
+- The GVP database includes the names, locations, types, and features of more than 1,500 volcanoes with eruptions during the Holocene period (approximately the last 10,000 years) or exhibiting current unrests.
+- <a href="https://www.kaggle.com/priyanshusahu23/eda-on-volcano-data">Link</a> Here's the link of jupyter notebook.
 
 ***
 ## Machine Learning
