@@ -12,6 +12,7 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
   2. [Machine Learning](#2)
       - [Titanic data prediction](#mac_1)
   3. [Deep Learning](#3)
+      - [Dogs vs Cats](#dl_1)
   
 ***
 <a id="1">
@@ -46,9 +47,9 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 <h3>Dogs vs cats</h3>
 </a>
 
-- In this notebook i used the data from [kaggle](https://www.kaggle.com/competitions/dogs-vs-cats) competion. 
+- In this notebook i used the data from <a href="https://www.kaggle.com/competitions/dogs-vs-cats">kaggle</a> competion. 
 - In this dataset there are two classes (Dogs and Cats) we need classfy them. So, for this i have created a classifier with the help of tensorflow and keras.
-- Here's the [link](https://www.kaggle.com/code/priyanshusahu23/dogs-vs-cats) of the project.
+- Here's the <a href="https://www.kaggle.com/code/priyanshusahu23/dogs-vs-cats">link</a> of the project.
 
 ***
 
